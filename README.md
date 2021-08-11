@@ -1,6 +1,10 @@
 # PDF-PSD_shell
 This shell help plot spectrogram. 
 
+## Prerequisite
+- [GMT4](https://github.com/GenericMappingTools/gmt)
+- [PDF-PSD](https://ds.iris.edu/ds/products/pdf-psd/)
+
 ## Usage
 To carry out the PDF-PSD analysis, we can take the following steps:                                                    
 ### preprocess
