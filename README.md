@@ -1,2 +1,4 @@
 # PDF-PSD_shell
-This shell help plot spectrogram. 
+This shell help plot spectrogram.
+
+## Usage
