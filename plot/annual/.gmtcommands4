@@ -1,0 +1,10 @@
+# GMT common arguments shelf
+-Bf10a30:Julian Day:/Swen
+-JX8.5i/3i
+-R0/365/-1.301/2
+-X1.2i
+-Y2i
+-jX8.5i/3i
+EOF
+F
+F
